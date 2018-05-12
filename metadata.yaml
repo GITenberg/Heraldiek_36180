@@ -1,0 +1,31 @@
+_repo: Heraldiek_36180
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 36180-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Godefroy, Jan
+    alias: Godefroy, J.
+    gutenberg_agent_id: '38119'
+    url: http://www.gutenberg.org/2009/agents/38119
+description: ''
+gutenberg_issued: '2011-05-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36180'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'CR'
+- !lcsh 'Heraldry'
+tableOfContents: 'Kleuren -- Schildindeeling -- Schildvorm -- Herautstukken -- Heraldische
+  bijteekens of breuken -- Heraldische beelden: Het kruis. De Menschfiguur. Dieren.
+  De leeuw. De luipaard. De adelaar. Andere dieren. De plant en hare onderdeelen.
+  Fantastische beelden. Hemellichamen en elementen. Gebouwen, gebruiksvoorwerpen etc.
+  -- Stand en plaatsing van de beelden -- De Helm -- Helmteekens -- Kronen, mutsen,
+  emblemen, orden -- Schildhouders en wapententen.'
+title: Heraldiek
+url: http://www.gutenberg.org/ebooks/36180
